@@ -1,6 +1,6 @@
 export function Footer() {
   return (
-    <footer className="flex justify-between px-4 pt-6 mb-4 border-t border-gray-800">
+    <footer className="hidden md:flex justify-between px-4 pt-6 mb-4 border-t border-gray-800">
       <p className="text-[#D6D3D6]">© 2023 All rights reserved,</p>
 
       <div className="flex gap-6 ">

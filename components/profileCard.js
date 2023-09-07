@@ -8,12 +8,12 @@ export function ProfileCard() {
         alt="logo"
       />
       <p className="text-[#A3A3A3] ">Hii I&apos;m Kawsar 👋</p>
-      <p className=" text-transparent font-medium bg-clip-text bg-gradient-to-r from-[#B1B1B1] to-[#808080] text-center text-5xl leading-14 tracking-wide pb-8">
+      <p className=" text-3xl text-transparent font-medium bg-clip-text bg-gradient-to-r from-[#B1B1B1] to-[#808080] text-center md:text-5xl leading-14 tracking-wide pb-8">
         Building digital <br />
         Products,brands,and <br />
         experience.
       </p>
-      <button className=" transition delay-150 duration-300 ease-in-out text-[#B1B1B1] hover:scale-110 flex items-center gap-4 bg-[#1A1A1A] px-6 py-3 border border-gray-800 text-base ">
+      <button className="text-xs transition delay-150 duration-300 ease-in-out text-[#B1B1B1] hover:scale-110 flex items-center gap-4 bg-[#1A1A1A] px-6 py-3 border border-gray-800 md:text-base ">
         Latest Short <PiArrowLineUpRightLight />{" "}
       </button>
     </div>
